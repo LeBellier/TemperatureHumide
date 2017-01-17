@@ -77,3 +77,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# Java app #
+*.class
+*.project
+.classpath
+.settings
+.checkstyle
+*.class
+.cproject
